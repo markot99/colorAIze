@@ -1,0 +1,5 @@
+__pycache__/
+colorAIze_venv/
+colorized/
+data/
+.mypy_cache/
